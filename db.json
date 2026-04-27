@@ -27,7 +27,7 @@
       "dob": "2020-02-03",
       "address": "Nashik",
       "pan": "ABCDE1234F",
-      "kycStatus": "pending",
+      "kycStatus": "approved",
       "createdAt": "2026-04-04T07:25:38.567Z",
       "id": "H5kTxNWYfNE"
     },
